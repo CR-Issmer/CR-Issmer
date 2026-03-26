@@ -11,12 +11,12 @@
 
 ## 🎯 About Me
 
-* Aspiring Data Analyst based in Costa Rica 🇨🇷
+* Junior Data Analyst based in Costa Rica 🇨🇷
 * Bachelor's degree in Systems Engineering
-* Strong foundation in SQL and databases
-* Focused on building real-world data analysis projects
-* Currently learning: Excel, Power BI, and Data Visualization
-* Goal: Land my first Data Analyst role (remote preferred)
+* Experience working with data using SQL (validation, quality, relational design)
+* Worked with large datasets in professional environments
+* Built projects simulating real-world data scenarios
+* Currently improving skills in Excel and Power BI
 
 ---
 
