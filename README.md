@@ -24,52 +24,52 @@
 
 **Data & Databases**
 
-![SQL Server](https://img.shields.io/badge/SQL%20(Server%2C%20SSMS)-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6c757d?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![Relational Databases](https://img.shields.io/badge/Relational%20Databases-6c757d?style=for-the-badge)
 
 **Data Concepts**  
-Data Analysis, Data Validation, Data Quality, Data Integrity 
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-2196F3?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-FF9800?style=for-the-badge)
+![Data Integrity](https://img.shields.io/badge/Data%20Integrity-9C27B0?style=for-the-badge)
 
 **Tools** 
-
-![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI%20-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black)
-
-### Basic Knowledge
-
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
+<!--![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=google-sheets&logoColor=white)-->
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Other**  
-Git, GitHub 
+<!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 Projects
 
-* 🔹 **Ride-Hailing Data Platform (SQL Project)**  
+* 🔹 **Ride-Hailing Data Platform (SQL Project)**
+  🔗 https://github.com/CR-Issmer/tu-repo  
 - Designed a relational database model (3NF) ensuring data integrity and consistency  
 - Applied constraints, validation rules, and relational structure  
 - Built queries and views to support data validation and reporting  
 - Developed using SQL Server, SSMS, Docker, and VS Code  
-* 🔹 Excel Sales Analysis *(in progress — focused on data cleaning, pivot tables, and dashboards)*
-* 🔹 SQL Data Cleaning Project *(planned — real-world dataset cleaning and transformation)*
-* 🔹 Power BI Sales Dashboard *(planned — visualization and business insights)*
 
 ---
 
 ## 📈 Currently Learning
 
-* Excel for business analytics
-- Power BI dashboards
-* Advanced SQL for Data Analysis
+- Excel for data analysis (cleaning, pivot tables, reporting)  
+- Power BI dashboards and data visualization  
+- Advanced SQL for data analysis
   
 ---
 
 ## 🚀 Focus
 
-* Strengthening data analysis and data quality skills
-* Building real-world data projects
-* Securing an entry-level Data Analyst role
+- Strengthening data analysis and data quality practices  
+- Building projects based on real-world data scenarios  
+- Preparing for entry-level Data Analyst roles  
 
 ---
