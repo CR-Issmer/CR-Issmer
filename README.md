@@ -50,7 +50,7 @@
 ## 📊 Projects
 
 * 🔹 **Ride-Hailing Data Platform (SQL Project)**
-  🔗 https://github.com/CR-Issmer/tu-repo  
+  🔗 [View Project](https://github.com/CR-Issmer/ride-hailing-data-platform-sql)  
 - Designed a relational database model (3NF) ensuring data integrity and consistency  
 - Applied constraints, validation rules, and relational structure  
 - Built queries and views to support data validation and reporting  
