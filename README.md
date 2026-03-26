@@ -22,12 +22,15 @@
 
 ## 🛠️ Skills
 
-### Data Analysis
+**Data & Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20(Server%2C%20SSMS)-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6c757d?style=for-the-badge)
 
-### Learning
+**Data Concepts**  
+Data Analysis, Data Validation, Data Quality, Data Integrity 
+
+**Tools** 
 
 ![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI%20-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black)
@@ -36,10 +39,19 @@
 
 ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Other**  
+Git, GitHub 
+
 ---
 
 ## 📊 Projects
 
+* 🔹 **Ride-Hailing Data Platform (SQL Project)**  
+- Designed a relational database model (3NF) ensuring data integrity and consistency  
+- Applied constraints, validation rules, and relational structure  
+- Built queries and views to support data validation and reporting  
+- Developed using SQL Server, SSMS, Docker, and VS Code  
 * 🔹 Excel Sales Analysis *(in progress — focused on data cleaning, pivot tables, and dashboards)*
 * 🔹 SQL Data Cleaning Project *(planned — real-world dataset cleaning and transformation)*
 * 🔹 Power BI Sales Dashboard *(planned — visualization and business insights)*
@@ -48,16 +60,16 @@
 
 ## 📈 Currently Learning
 
-* Advanced SQL for Data Analysis
 * Excel for business analytics
-* Power BI dashboards
-
+- Power BI dashboards
+* Advanced SQL for Data Analysis
+  
 ---
 
 ## 🚀 Focus
 
-* Strengthening core data analysis skills
-* Building projects that reflect real business scenarios
-* Preparing for entry-level Data Analyst roles
+* Strengthening data analysis and data quality skills
+* Building real-world data projects
+* Securing an entry-level Data Analyst role
 
 ---
